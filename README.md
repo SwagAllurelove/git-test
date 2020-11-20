@@ -1,32 +1,62 @@
-Lenovo@LAPTOP-3PSIGA9V MINGW64 /d/Git/GitDir (master)
-$ git clone https://github.com/SwagAllurelove/git-test.git
-Cloning into 'git-test'...
-remote: Enumerating objects: 3, done.
-remote: Counting objects: 100% (3/3), done.
-remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
-Receiving objects: 100% (3/3), done.
+# markdown
+# 我对信息素养实践课程的认识
 
-Lenovo@LAPTOP-3PSIGA9V MINGW64 /d/Git/GitDir (master)
-$ cd git-test
+## 有感
 
-Lenovo@LAPTOP-3PSIGA9V MINGW64 /d/Git/GitDir/git-test (main)
-$ git add README.md
+### 万年运 20级6班 2020012360
 
-Lenovo@LAPTOP-3PSIGA9V MINGW64 /d/Git/GitDir/git-test (main)
-$ git commit -m README.md
-Author identity unknown
+**信息素养实践课程作为软件工程专业的入门课程，任务是使学生掌握计算机的基本使用以及常见应用软件的使用，属于专业必修课. 信息素养是全球信息化需要人们具备的一种基本能力，   信息素养是广大编程爱好者钟情的一门课程，以培养编程习惯，编程方法为主，培养编者的编程兴趣，从而爱上编程，并能把自己的专业知识用到自己想用的地方信息素养涉及各方面的知识，是一个特殊的、涵盖面很宽的能力，它包含人文的、技术的、经济的、法律的诸多因素，和许多学科有着紧密的联系。信息技术支持信息素养，通晓信息技术强调对技术的理解、认识和使用技能。而信息素养的重点是内容、传播、分析，包括信息检索以及评价，涉及更宽的方面。**
 
-*** Please tell me who you are.
+*它是一种了解、搜集、评估和利用信息的知识结构，既需要通过熟练的信息技术，也需要通过完善的调查方法、通过鉴别和推理来完成。信息素养是一种信息能力，信息技术是它的一种工具*.
 
-Run
+```python
+s='*****Jin Gang ##Hu Lu Wa&&&&'
+s=s.strip('*,&')
+s=s.lower()
+s=s.upper()
+s=s.swapcase()
 
-  git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
+print(s)
+r='allure love'
+r=r.replace('allure','clear')
+print(r)
+```
 
-to set your account's default identity.
-Omit --global to set the identity only in this repository.
+![](https://gss0.baidu.com/-fo3dSag_xI4khGko9WTAnF6hhy/zhidao/wh%3D600%2C800/sign=d42fb6c9a4d3fd1f365caa3c007e0927/b3b7d0a20cf431ad9d4b66de4736acaf2fdd98bf.jpg)
 
-fatal: unable to auto-detect email address (got 'Lenovo@LAPTOP-3PSIGA9V.(none)')
+### 
 
-Lenovo@LAPTOP-3PSIGA9V MINGW64 /d/Git/GitDir/git-test (main)
-$ git push
+
+
+
+
+
+
+| 信息素养 | 平时成绩 | 期末检验 |
+| :------- | -------- | -------- |
+| 100      | 70       | 30       |
+|          |          |          |
+|          |          |          |
+
+[雪梨作业](https://gss0.baidu.com/-fo3dSag_xI4khGko9WTAnF6hhy/zhidao/wh%3D600%2C800/sign=d42fb6c9a4d3fd1f365caa3c007e0927/b3b7d0a20cf431ad9d4b66de4736acaf2fdd98bf.jpg)
+
+```java
+//无序列表
+- 目录1
+- 目录2
+- 目录3
+//有序列表1.wiln
+
+
+
+
+```
+
+- 目录1
+- 目录2
+- 目录3
+
+1.首页
+
+2.分类
+
